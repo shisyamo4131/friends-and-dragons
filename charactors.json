@@ -60,5 +60,69 @@
       "Resilient": 1,
       "Immovable": 1
     }
+  },
+  "aigror": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Aigror",
+  "name": "Aigror",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "dwarf",
+  "class": "guardian",
+  "stats": {
+    "attack": 1314,
+    "health": 4954,
+    "defense": 4954
+  },
+  "skills": {
+    "Barrier": 1,
+    "Armor of Fire": 1,
+    "Rune of Fire": 3,
+    "Fire Resistance": 1,
+    "Melee Parry": 2,
+    "Poison Resistance": 1
   }
+},
+"cinderwhisk": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Cinderwhisk",
+  "name": "Cinderwhisk",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "beastfolk",
+  "class": "guardian",
+  "stats": {
+    "attack": 1730,
+    "health": 6514,
+    "defense": 6514
+  },
+  "skills": {
+    "Barrier": 1,
+    "Armor of Fire": 2,
+    "Rune of Fire": 1,
+    "Fleet-Footed": 1,
+    "Resilient": 1,
+    "Refresh": 1,
+    "Immovable": 1,
+    "Sentinel": 1
+  }
+},
+"flamescale": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Flamescale",
+  "name": "Flamescale",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "dragonborn",
+  "class": "knight",
+  "stats": {
+    "attack": 846,
+    "health": 4992,
+    "defense": 4992
+  },
+  "skills": {
+    "Cardinal Parry": 2,
+    "Protector": 1,
+    "Push": 4,
+    "Immovable": 1,
+    "Extra Time": 1
+  }
+}
 }
