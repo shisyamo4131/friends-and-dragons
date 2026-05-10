@@ -233,5 +233,112 @@
     "Cardinal Parry": 1,
     "Push": 1
   }
+},
+"golarg": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Golarg",
+  "name": "Golarg",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "orc",
+  "class": "pirate",
+  "stats": {
+    "attack": 1418,
+    "health": 2666,
+    "defense": 2666
+  },
+  "skills": {
+    "Cutlass & Flintlock": 1,
+    "Swashbuckler": 1,
+    "Slay Dragon": 1,
+    "Immune to Stun": 1,
+    "Blitz": 3,
+    "Fortify": 1,
+    "Brutal Attack": 1
+  }
+},
+"carmine": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Carmine",
+  "name": "Carmine",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "human",
+  "class": "sorcerer",
+  "stats": {
+    "attack": 2280,
+    "health": 3030,
+    "defense": 3030
+  },
+  "skills": {
+    "Fireball": 2,
+    "Aura of Fire": 2,
+    "Magic Vulnerability": 1,
+    "Rune of Fire": 1,
+    "Magic Parry": 1,
+    "Teleport": 1,
+    "Extra Time": 1
+  }
+},
+"beloved_brianna": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Beloved_Brianna",
+  "name": "Beloved Brianna",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "dwarf",
+  "class": "rogue",
+  "stats": {
+    "attack": 1730,
+    "health": 2848,
+    "defense": 2848
+  },
+  "skills": {
+    "Tumble": 3,
+    "Brutal Attack": 2,
+    "Diagonal Aim": 2,
+    "Dodge": 1,
+    "Whirlwind": 1
+  }
+},
+"elmenora": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Elmenora",
+  "name": "Elmenora",
+  "rarity": 5,
+  "attribute": "green",
+  "species": "elf",
+  "class": "cleric",
+  "stats": {
+    "attack": 1534,
+    "health": 3858,
+    "defense": 3858
+  },
+  "skills": {
+    "Mend": 2,
+    "Cleanse": 2,
+    "Nature's Blessing": 1,
+    "Poison Resistance": 1,
+    "Magic Parry": 1,
+    "Resilient": 1,
+    "Extra Time": 1
+  }
+},
+"radek": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Radek",
+  "name": "Radek",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "human",
+  "class": "rogue",
+  "stats": {
+    "attack": 1664,
+    "health": 2744,
+    "defense": 2744
+  },
+  "skills": {
+    "Tumble": 2,
+    "Whirlwind": 2,
+    "Poison Resistance": 1,
+    "Dodge": 2,
+    "Finishing Blow": 1,
+    "Extra Time": 1
+  }
 }
 }
