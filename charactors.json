@@ -1,0 +1,22 @@
+{
+  "blackfire": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Blackfire",
+    "name": "Blackfire",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "dragonborn",
+    "class": "assassin",
+    "stats": {
+      "attack": 2548,
+      "health": 3134,
+      "defense": 3134
+    },
+    "skills": {
+      "Shroud": 1,
+      "Finishing Blow": 2,
+      "Brutal Backstab": 3,
+      "Melee Parry": 2,
+      "Arcane Shield": 1
+    }
+  }
+}
