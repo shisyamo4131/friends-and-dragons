@@ -340,5 +340,265 @@
     "Finishing Blow": 1,
     "Extra Time": 1
   }
+},
+"cassius": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Cassius",
+  "name": "Cassius",
+  "rarity": 5,
+  "attribute": "blue",
+  "species": "human",
+  "class": "paladin",
+  "stats": {
+    "attack": 1298,
+    "health": 4780,
+    "defense": 4780
+  },
+  "skills": {
+    "Protector": 2,
+    "Holy Light": 2,
+    "Freeze Resistance": 1,
+    "Magic Parry": 1,
+    "Resilient": 1,
+    "Shield Wall": 1,
+    "Extra Time": 1
+  }
+},
+"blanchard": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Blanchard",
+  "name": "Blanchard",
+  "rarity": 5,
+  "attribute": "blue",
+  "species": "human",
+  "class": "hunter",
+  "stats": {
+    "attack": 2426,
+    "health": 2898,
+    "defense": 2898
+  },
+  "skills": {
+    "Pinning Shot": 2,
+    "Sniper": 2,
+    "Freeze Resistance": 1,
+    "Critical Attack": 1,
+    "Prepare": 1,
+    "Fleet-Footed": 1,
+    "Extra Time": 1
+  }
+},
+"gorenag": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Gorenag",
+  "name": "Gorenag",
+  "rarity": 5,
+  "attribute": "blue",
+  "species": "orc",
+  "class": "guardian",
+  "stats": {
+    "attack": 1650,
+    "health": 6408,
+    "defense": 6408
+  },
+  "skills": {
+    "Barrier": 1,
+    "Armor of Ice": 2,
+    "Taunt": 2,
+    "Freeze Resistance": 1,
+    "Resilient": 1,
+    "Sentinel": 1,
+    "Immovable": 1
+  }
+},
+"sauriel": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Sauriel",
+  "name": "Sauriel",
+  "rarity": 5,
+  "attribute": "blue",
+  "species": "dragonborn",
+  "class": "runecaster",
+  "stats": {
+    "attack": 2146,
+    "health": 3318,
+    "defense": 3318
+  },
+  "skills": {
+    "Chain Lightning": 1,
+    "Rune of Ice": 3,
+    "Freeze Resistance": 1,
+    "Magic Vulnerability": 1,
+    "Magic Parry": 1,
+    "Teleport": 1,
+    "Extra Time": 1
+  }
+},
+"elesha": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Elesha",
+  "name": "Elesha",
+  "rarity": 5,
+  "attribute": "blue",
+  "species": "elf",
+  "class": "druid",
+  "stats": {
+    "attack": 1572,
+    "health": 3084,
+    "defense": 3084
+  },
+  "skills": {
+    "Mend": 2,
+    "Frost Roots": 2,
+    "Freeze Resistance": 1,
+    "Nature's Blessing": 2,
+    "Magic Parry": 1,
+    "Resilient": 1
+  }
+},
+"flint": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Flint",
+  "name": "Flint",
+  "rarity": 5,
+  "attribute": "blue",
+  "species": "dwarf",
+  "class": "pirate",
+  "stats": {
+    "attack": 1456,
+    "health": 2614,
+    "defense": 2614
+  },
+  "skills": {
+    "Cutlass & Flintlock": 1,
+    "Pistoleer": 1,
+    "Prepare": 3,
+    "Melee Parry": 2,
+    "Freeze Resistance": 1,
+    "Push": 1
+  }
+},
+
+"hartwig": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Hartwig",
+  "name": "Hartwig",
+  "rarity": 5,
+  "attribute": "light",
+  "species": "human",
+  "class": "paladin",
+  "stats": {
+    "attack": 1330,
+    "health": 4860,
+    "defense": 4860
+  },
+  "skills": {
+    "Protector": 2,
+    "Holy Light": 2,
+    "Aura of Light": 1,
+    "Magic Parry": 1,
+    "Resilient": 1,
+    "Shield Wall": 1,
+    "Extra Time": 1
+  }
+},
+"raze": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Raze",
+  "name": "Raze",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "human",
+  "class": "barbarian",
+  "stats": {
+    "attack": 1186,
+    "health": 3498,
+    "defense": 3498
+  },
+  "skills": {
+    "Berserk": 1,
+    "Whirlwind": 3,
+    "Brutal Attack": 2,
+    "Melee Parry": 1,
+    "Push": 1,
+    "Fortify": 1
+  }
+},
+"crimson": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Crimson",
+  "name": "Crimson",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "dragonborn",
+  "class": "hunter",
+  "stats": {
+    "attack": 2360,
+    "health": 2848,
+    "defense": 2848
+  },
+  "skills": {
+    "Pinning Shot": 2,
+    "Critical Attack": 2,
+    "Exploit Weakness": 2,
+    "Fire Resistance": 1,
+    "Fleet-Footed": 1,
+    "Prepare": 1
+  }
+},
+"daedra": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Daedra",
+  "name": "Daedra",
+  "rarity": 5,
+  "attribute": "dark",
+  "species": "elf",
+  "class": "sorcerer",
+  "stats": {
+    "attack": 2320,
+    "health": 3094,
+    "defense": 3094
+  },
+  "skills": {
+    "Shadow Bolt": 2,
+    "Aura of Darkness": 2,
+    "Magic Vulnerability": 1,
+    "Rune of Darkness": 1,
+    "Magic Parry": 1,
+    "Teleport": 1,
+    "Extra Time": 1
+  }
+},
+"scorch": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Scorch",
+  "name": "Scorch",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "dragonborn",
+  "class": "runecaster",
+  "stats": {
+    "attack": 2146,
+    "health": 3318,
+    "defense": 3318
+  },
+  "skills": {
+    "Chain Lightning": 1,
+    "Rune of Fire": 3,
+    "Fire Resistance": 1,
+    "Magic Vulnerability": 1,
+    "Magic Parry": 1,
+    "Teleport": 1,
+    "Extra Time": 1
+  }
+},
+"veilnor": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Veilnor",
+  "name": "Veilnor",
+  "rarity": 5,
+  "attribute": "dark",
+  "species": "human",
+  "class": "assassin",
+  "stats": {
+    "attack": 2548,
+    "health": 3134,
+    "defense": 3134
+  },
+  "skills": {
+    "Shroud": 1,
+    "Finishing Blow": 2,
+    "Brutal Backstab": 3,
+    "Dark Resistance": 1,
+    "Melee Parry": 1,
+    "Arcane Shield": 1
+  }
 }
 }
