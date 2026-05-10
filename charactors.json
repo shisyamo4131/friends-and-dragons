@@ -152,5 +152,27 @@
       "Fire Resistance": 1,
       "Rune of Fire": 2
     }
+  },
+  "urzmorga": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Urzmorga",
+    "name": "Urzmorga",
+    "name_jp": "ウズモルガ",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "orc",
+    "class": "witch",
+    "stats": {
+      "attack": 1028,
+      "health": 3900,
+      "defense": 3900
+    },
+    "skills": {
+      "Life Drain": 1,
+      "Focus": 2,
+      "Fortify": 3,
+      "Death Blow": 1,
+      "Bad Medicine": 1,
+      "Extra Time": 1
+    }
   }
 }
