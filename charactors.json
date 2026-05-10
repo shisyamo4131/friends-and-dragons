@@ -2,6 +2,7 @@
   "blackfire": {
     "source_url": "https://friends-and-dragons.fandom.com/wiki/Blackfire",
     "name": "Blackfire",
+    "name_jp": "ブラックファイア",
     "rarity": 5,
     "attribute": "red",
     "species": "dragonborn",
@@ -17,12 +18,12 @@
       "Brutal Backstab": 3,
       "Melee Parry": 2,
       "Arcane Shield": 1
-    },
-    "name_jp": "ブラックファイア"
+    }
   },
   "maple": {
     "source_url": "https://friends-and-dragons.fandom.com/wiki/Maple",
     "name": "Maple",
+    "name_jp": "メイプル",
     "rarity": 5,
     "attribute": "red",
     "species": "beastfolk",
@@ -38,12 +39,12 @@
       "Exploit Weakness": 4,
       "Fortify": 2,
       "Curse Resistance": 1
-    },
-    "name_jp": "メイプル"
+    }
   },
   "embera": {
     "source_url": "https://friends-and-dragons.fandom.com/wiki/Embera",
     "name": "Embera",
+    "name_jp": "エムベラ",
     "rarity": 5,
     "attribute": "red",
     "species": "elf",
@@ -61,12 +62,12 @@
       "Entangle": 2,
       "Resilient": 1,
       "Immovable": 1
-    },
-    "name_jp": "エムベラ"
+    }
   },
   "aigror": {
     "source_url": "https://friends-and-dragons.fandom.com/wiki/Aigror",
     "name": "Aigror",
+    "name_jp": "エイグロア",
     "rarity": 5,
     "attribute": "red",
     "species": "dwarf",
@@ -83,12 +84,12 @@
       "Fire Resistance": 1,
       "Melee Parry": 2,
       "Poison Resistance": 1
-    },
-    "name_jp": "エイグロア"
+    }
   },
   "cinderwhisk": {
     "source_url": "https://friends-and-dragons.fandom.com/wiki/Cinderwhisk",
     "name": "Cinderwhisk",
+    "name_jp": "シンダーウィスク",
     "rarity": 5,
     "attribute": "red",
     "species": "beastfolk",
@@ -107,7 +108,6 @@
       "Refresh": 1,
       "Immovable": 1,
       "Sentinel": 1
-    },
-    "name_jp": "シンダーウィスク"
+    }
   }
 }
