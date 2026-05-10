@@ -62,67 +62,154 @@
     }
   },
   "aigror": {
-  "source_url": "https://friends-and-dragons.fandom.com/wiki/Aigror",
-  "name": "Aigror",
-  "rarity": 5,
-  "attribute": "red",
-  "species": "dwarf",
-  "class": "guardian",
-  "stats": {
-    "attack": 1314,
-    "health": 4954,
-    "defense": 4954
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Aigror",
+    "name": "Aigror",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "dwarf",
+    "class": "guardian",
+    "stats": {
+      "attack": 1314,
+      "health": 4954,
+      "defense": 4954
+    },
+    "skills": {
+      "Barrier": 1,
+      "Armor of Fire": 1,
+      "Rune of Fire": 3,
+      "Fire Resistance": 1,
+      "Melee Parry": 2,
+      "Poison Resistance": 1
+    }
   },
-  "skills": {
-    "Barrier": 1,
-    "Armor of Fire": 1,
-    "Rune of Fire": 3,
-    "Fire Resistance": 1,
-    "Melee Parry": 2,
-    "Poison Resistance": 1
-  }
-},
-"cinderwhisk": {
-  "source_url": "https://friends-and-dragons.fandom.com/wiki/Cinderwhisk",
-  "name": "Cinderwhisk",
-  "rarity": 5,
-  "attribute": "red",
-  "species": "beastfolk",
-  "class": "guardian",
-  "stats": {
-    "attack": 1730,
-    "health": 6514,
-    "defense": 6514
+  "cinderwhisk": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Cinderwhisk",
+    "name": "Cinderwhisk",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "beastfolk",
+    "class": "guardian",
+    "stats": {
+      "attack": 1730,
+      "health": 6514,
+      "defense": 6514
+    },
+    "skills": {
+      "Barrier": 1,
+      "Armor of Fire": 2,
+      "Rune of Fire": 1,
+      "Fleet-Footed": 1,
+      "Resilient": 1,
+      "Refresh": 1,
+      "Immovable": 1,
+      "Sentinel": 1
+    }
   },
-  "skills": {
-    "Barrier": 1,
-    "Armor of Fire": 2,
-    "Rune of Fire": 1,
-    "Fleet-Footed": 1,
-    "Resilient": 1,
-    "Refresh": 1,
-    "Immovable": 1,
-    "Sentinel": 1
-  }
-},
-"flamescale": {
-  "source_url": "https://friends-and-dragons.fandom.com/wiki/Flamescale",
-  "name": "Flamescale",
-  "rarity": 5,
-  "attribute": "red",
-  "species": "dragonborn",
-  "class": "knight",
-  "stats": {
-    "attack": 846,
-    "health": 4992,
-    "defense": 4992
+  "flamescale": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Flamescale",
+    "name": "Flamescale",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "dragonborn",
+    "class": "knight",
+    "stats": {
+      "attack": 846,
+      "health": 4992,
+      "defense": 4992
+    },
+    "skills": {
+      "Cardinal Parry": 2,
+      "Protector": 1,
+      "Push": 4,
+      "Immovable": 1,
+      "Extra Time": 1
+    }
   },
-  "skills": {
-    "Cardinal Parry": 2,
-    "Protector": 1,
-    "Push": 4,
-    "Immovable": 1,
-    "Extra Time": 1
+  "bramble_rose": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Bramble_Rose",
+    "name": "Bramble Rose",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "beastfolk",
+    "class": "warrior",
+    "stats": {
+      "attack": 1456,
+      "health": 2614,
+      "defense": 2614
+    },
+    "skills": {
+      "Taunt": 1,
+      "Resilient": 2,
+      "Finishing Blow": 2,
+      "Melee Parry": 1,
+      "Impunity": 1,
+      "Fortify": 1,
+      "Brutal Attack": 1
+    }
+  },
+  "thronak": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Thronak",
+    "name": "Thronak",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "dwarf",
+    "class": "warrior",
+    "stats": {
+      "attack": 2132,
+      "health": 6072,
+      "defense": 6072
+    },
+    "skills": {
+      "Taunt": 1,
+      "Slay Troll": 1,
+      "Grappling Hook": 2,
+      "Strongpoint": 2,
+      "High Ground": 1,
+      "Resilient": 1,
+      "Sentinel": 1
+    }
+  },
+  "azgog": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Azgog",
+    "name": "Azgog",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "orc",
+    "class": "barbarian",
+    "stats": {
+      "attack": 1092,
+      "health": 2522,
+      "defense": 2522
+    },
+    "skills": {
+      "Berserk": 1,
+      "Fire Walker": 1,
+      "Mighty Blow": 3,
+      "Fortify": 1,
+      "Life Drain": 1,
+      "Stunning Strike": 1,
+      "Melee Parry": 1
+    }
+  },
+  "fulgrin": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Fulgrin",
+    "name": "Fulgrin",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "dwarf",
+    "class": "pirate",
+    "stats": {
+      "attack": 1456,
+      "health": 2614,
+      "defense": 2614
+    },
+    "skills": {
+      "Cutlass & Flintlock": 1,
+      "Pistoleer": 1,
+      "Skirmisher": 1,
+      "Melee Parry": 2,
+      "Prepare": 3,
+      "Push": 1
+    }
   }
-}
 }
