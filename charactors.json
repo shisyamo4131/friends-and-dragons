@@ -18,5 +18,47 @@
       "Melee Parry": 2,
       "Arcane Shield": 1
     }
+  },
+  "maple": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Maple",
+    "name": "Maple",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "beastfolk",
+    "class": "assassin",
+    "stats": {
+      "attack": 3250,
+      "health": 1704,
+      "defense": 1704
+    },
+    "skills": {
+      "Shroud": 1,
+      "Slay Monstrosity": 1,
+      "Exploit Weakness": 4,
+      "Fortify": 2,
+      "Curse Resistance": 1
+    }
+  },
+  "embera": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Embera",
+    "name": "Embera",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "elf",
+    "class": "gladiator",
+    "stats": {
+      "attack": 2146,
+      "health": 4408,
+      "defense": 4408
+    },
+    "skills": {
+      "Trident & Net": 1,
+      "Net Grab": 1,
+      "Critical Attack": 2,
+      "Favored Odds": 1,
+      "Entangle": 2,
+      "Resilient": 1,
+      "Immovable": 1
+    }
   }
 }
