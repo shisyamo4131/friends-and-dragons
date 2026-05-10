@@ -211,5 +211,27 @@
       "Prepare": 3,
       "Push": 1
     }
+  },
+  "lythar": {
+  "source_url": "https://friends-and-dragons.fandom.com/wiki/Lythar",
+  "name": "Lythar",
+  "rarity": 5,
+  "attribute": "red",
+  "species": "elf",
+  "class": "barbarian",
+  "stats": {
+    "attack": 1248,
+    "health": 3576,
+    "defense": 3576
+  },
+  "skills": {
+    "Berserk": 1,
+    "Whirlwind": 3,
+    "Fire Resistance": 1,
+    "Life Drain Immunity": 1,
+    "Aura of Fire": 1,
+    "Cardinal Parry": 1,
+    "Push": 1
   }
+}
 }
