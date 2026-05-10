@@ -109,5 +109,48 @@
       "Immovable": 1,
       "Sentinel": 1
     }
+  },
+  "dralgion": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Dralgion",
+    "name": "Dralgion",
+    "name_jp": "ドラルギオン",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "dwarf",
+    "class": "witch",
+    "stats": {
+      "attack": 1262,
+      "health": 2692,
+      "defense": 2692
+    },
+    "skills": {
+      "Life Drain": 1,
+      "Arcane Vibrations": 1,
+      "Point Blank": 4,
+      "Melee Parry": 2,
+      "Fire Resistance": 1
+    }
+  },
+  "firesoul": {
+    "source_url": "https://friends-and-dragons.fandom.com/wiki/Firesoul",
+    "name": "Firesoul",
+    "name_jp": "ファイアソウル",
+    "rarity": 5,
+    "attribute": "red",
+    "species": "dragonborn",
+    "class": "elementalist",
+    "stats": {
+      "attack": 1288,
+      "health": 1742,
+      "defense": 1742
+    },
+    "skills": {
+      "Chromatic Shield": 1,
+      "Prepare": 2,
+      "Aura of Fire": 1,
+      "Prepared Ignite": 2,
+      "Fire Resistance": 1,
+      "Rune of Fire": 2
+    }
   }
 }
